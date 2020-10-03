@@ -1,0 +1,79 @@
+/*Common elements*/
+/* body {
+    font-size: 50%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #85929E;
+    padding: 0;
+    margin: 0;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+ 
+h1{
+    color: white;
+    font-size: 3.0em;
+    margin: 0.1em 0 0.1em 0;
+    padding: 0;
+}
+p {
+    font-size: 3em;
+    color: white;
+    padding: 0px;
+    margin: 0px 0.10em 0.25em 0px;
+}
+
+ul {
+    font-size: 1.2em;
+    margin: 0 0 0 1.0em;
+    padding: 0 0 0 1.0em;
+}
+ul li {
+    margin: 0;
+    padding: 0 0 1em;
+}
+hr {
+    padding: 0;
+    margin: 1em 1em 1em 1em;
+} */
+.contentWrapper {
+    margin: 0 auto;
+    max-width: 100%;
+    padding: 0;
+}
+
+/*Header*/
+header {
+    padding: 5px;
+    text-align: center;
+    background: #A9CCE3;
+    color: white;
+    font-size: 8px;
+}
+
+/*Nav Bars*/
+.nav {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px;
+}
+
+/*Sidebar Section*/
+.sidebar {
+    height: 100%;
+    width: 50%;
+    position: fixed;
+    background-color: white;
+    padding: 1%;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+    z-index: 1;
+}
+/*Main Section*/
+
+
+/*Footer*/
+.middle {
+    margin: center;
+}
